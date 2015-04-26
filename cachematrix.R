@@ -1,5 +1,6 @@
 
 ##Edited by me!
+##I did not haver time to complete the assignment this week :o(
 ## Put comments here that give an overall description of what your
 ## functions do
 
